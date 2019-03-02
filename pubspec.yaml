@@ -1,0 +1,16 @@
+name: sample_package
+description: A starting point for Dart libraries packages.
+version: 0.0.1
+homepage: https://www.golery.com
+author: Golery Team <no-reply@mail.com>
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+#  path: ^1.4.1
+
+dev_dependencies:
+  # library for static analysis
+  pedantic: ^1.0.0
+  test: ^1.0.0
