@@ -19,5 +19,7 @@ main() {
 
 ## Library commands
 Run example ` dart .\example\sample.dart`
+
 Run test `pub run .\test\test.dart`
+
 Run publish (dry-run): `pub publish --dry-run`
